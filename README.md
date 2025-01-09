@@ -9,4 +9,4 @@ Must work on applicants dashboard only
 
 
 Online gift store portal :
-Online gift store portal ongoing usecase will completed within jan end 2025 as deadline
+Online gift store portal ongoing usecase will be completed within the month of january end 2025 as deadline
